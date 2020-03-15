@@ -12,7 +12,7 @@ import (
 	log "github.com/gophish/gophish/logger"
 	"github.com/gophish/gophish/models"
 	"github.com/jordan-wright/email"
-	"github.com/glennzw/go-imap/imap"
+	"github.com/mxk/go-imap/imap"
 )
 
 // Client interface for IMAP interactions
